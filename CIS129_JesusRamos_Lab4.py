@@ -8,7 +8,7 @@ monthlySales = 0 # monthly sales amount
 storeAmount = 0 # store bonus amount
 empAmount = 0 # employee bonus amount
 salesIncrease = 0 # percent of sales increase
-prompt = '' #prompt will be a string literal
+prompt = '' # prompt will be a string literal
 
 # this code gets the monthly sales
 monthlySales = float(input('Enter the amount of monthly sales'))
